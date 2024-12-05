@@ -16,6 +16,10 @@ Some key points if you plan on implementing some of this code in your own projec
 * Output layer: Outputs the probabilities of the image of handwriting being in each class. Class (author) with the highest probability is defined as the **predicted author**
 
 ---
+End result (these images were produced using model_35):
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/7520a7b6-c4ee-4750-9e4f-f007be4e5fc3">
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/09399135-477a-4d2b-8fee-c715fa19d749">
+
 
 Some useful links:
 - https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/
