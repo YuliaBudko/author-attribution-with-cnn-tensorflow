@@ -15,4 +15,9 @@ Some key points if you plan on implementing some of this code in your own projec
 * Flatten layer: Converts all the arrays of numbers (which contain the image pixel values after being manipulated by the weights in the layers of the network) into a single column which can then be passed into the final layer
 * Output layer: Outputs the probabilities of the image of handwriting being in each class. Class (author) with the highest probability is defined as the **predicted author**
 
+---
+
+Some useful links:
+- https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/
+- https://poloclub.github.io/cnn-explainer/
 
