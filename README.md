@@ -6,7 +6,7 @@ Some key points if you plan on implementing some of this code in your own projec
 * Created the dataset myself, then uploaded it to files in my Google Drive. All the directories in the code correspond to folders in my own personal Google Drive, so simply running the code on your machine exactly as it is won't work - need to adjust the directories as needed
 * In the first part of the code (titled "Ksenia and Yulia: Binary Problem") the images for the datasets used were the same, but stored in a different folder on my Google Drive (hence the different directory in this part of the code)
 
--
+---
 
 **A very brief summary on the different layers implemented in this code:**
 * Input layer: Passes the images of the handwritting into the neural network (however, for this to be possible, the images need to be converted into a tensor format)
